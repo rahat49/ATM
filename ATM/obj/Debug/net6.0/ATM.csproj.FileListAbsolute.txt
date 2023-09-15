@@ -1,0 +1,15 @@
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+F:\Dotnet Practice\Console\ATM\ATM\bin\Debug\net6.0\ATM.exe
+F:\Dotnet Practice\Console\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+F:\Dotnet Practice\Console\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+F:\Dotnet Practice\Console\ATM\ATM\bin\Debug\net6.0\ATM.dll
+F:\Dotnet Practice\Console\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.dll
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\refint\ATM.dll
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+F:\Dotnet Practice\Console\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll
